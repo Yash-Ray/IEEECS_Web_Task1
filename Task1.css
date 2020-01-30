@@ -1,0 +1,109 @@
+body
+{
+    background-image : url('Background_WebDev_IEEECS.png');
+}
+
+#Logo
+{
+    position: sticky;
+    top:0px;
+    left: 0px;
+}
+
+#Fb_logo
+{
+    position: fixed;
+    float: right;
+    width: 8.5%;
+    right:0px;
+    bottom:15px;
+}
+
+#Git_logo
+{
+    position: fixed;
+    width: 5.5%;
+    float: right;
+    bottom: 20px;
+    right: 10px;
+}
+
+#Locator
+{
+    position: fixed;
+    width: 2.5%;
+    float: right;
+    bottom: 20px;
+    right: 5px;
+}
+
+#Menu
+{
+    position: fixed;
+    width: 80px;
+    float: right;
+    right: 0px;
+    top:30px;    
+}
+
+#Arrow
+{
+    position: fixed;
+    width: 100px;
+    bottom:125px;
+    left:805px;
+}
+
+h1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5dbcd2 !important;
+    font-size: 500%;
+    font-weight: 100;
+    text-indent: 10%;
+    text-shadow: 2px 2px 5px deeppink;
+    padding-top: 2%;    
+}
+
+h4
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5dbcd2 !important;
+    font-size: 250%;
+    font-weight: 100;
+    text-indent: 0%;
+
+           
+}
+
+#P1
+{
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;    
+    width: 18%;
+    margin-left: 10%;
+    margin-top: -50px;
+    text-indent: 400%;
+    color: burlywood;
+}
+
+#P2
+{
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 12% ;
+    margin-top: -50px;
+    width: 18%;
+    text-indent: 1%;
+    color: burlywood;
+}
+
+#P3
+{
+    float: left;
+    margin-left: 12%;
+    margin-top: -50px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 18%;
+    color: burlywood;
+}
